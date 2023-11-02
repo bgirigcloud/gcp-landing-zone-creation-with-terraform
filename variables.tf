@@ -1,7 +1,7 @@
 variable "billing_account" {
   description = "The ID of the billing account to associate projects with"
   type        = string
-  default     = "0185B3-37E776-3A0C9A"
+  default     = "put your billing id "
 }
 
 variable "org_id" {
